@@ -1,2 +1,8 @@
 langchain
 datasets
+pandas
+numpy
+python-dotenv
+openai
+pymupdf
+streamlit
