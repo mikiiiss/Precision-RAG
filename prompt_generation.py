@@ -215,10 +215,10 @@
 #     main(query, base_query)
 
 
-from similarity_search import load_embeddings_from_csv, compute_cosine_similarity, similarity_search
+from Scripts.similarity_search import load_embeddings_from_csv, compute_cosine_similarity, similarity_search
 import os
 import openai
-from similarity_search import load_embeddings_from_csv, compute_cosine_similarity, similarity_search
+from Scripts.similarity_search import load_embeddings_from_csv, compute_cosine_similarity, similarity_search
 import numpy as np
 import pandas as pd
 from dotenv import load_dotenv
